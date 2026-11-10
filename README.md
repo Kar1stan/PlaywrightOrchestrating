@@ -39,7 +39,7 @@ The project includes a test script defined in `package.json`:
 npm test
 ```
 
-This runs the ASOS header spec in Chromium with a single worker and headed mode.
+This runs the ASOS header spec in Chromium with a single worker and headed mode. *Take in mind tests only work in headed mode,since site refuses to connect otherwise*
 
 ## Project structure
 
